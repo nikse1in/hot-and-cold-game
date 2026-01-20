@@ -120,8 +120,8 @@ export async function getSimilarityRank(guess: string, target: string): Promise<
     // Compare against our word list to get accurate ranking
     let rank = 1;
 
-    // Use all common words for comparison
-    const wordsToCompare = uniqueCommonWords.slice(0, 300); // Use 300 words for reasonable performance
+    // Use only 50 most common words for reasonable performance on serverless
+    const wordsToCompare = uniqueCommonWords.slice(0, 50);
 
     for (const word of wordsToCompare) {
         if (word === lemmatize(guess) || word === lemmatize(target)) continue;
