@@ -1,0 +1,32 @@
+{
+    "accountAssociation": {
+        "header": "",
+        "payload": "",
+        "signature": ""
+    },
+    "frame": {
+        "version": "1",
+        "name": "Hot and Cold",
+        "homeUrl": "https://your-deployment-url.com",
+        "iconUrl": "https://your-deployment-url.com/icon.png",
+        "splashImageUrl": "https://your-deployment-url.com/splash.png",
+        "splashBackgroundColor": "#0a0a0f",
+        "webhookUrl": "",
+        "subtitle": "Guess the secret word!",
+        "description": "The delightfully frustrating word guessing game powered by AI. Guess the secret word by typing related words and get AI-powered similarity rankings.",
+        "screenshotUrls": [],
+        "primaryCategory": "games",
+        "tags": [
+            "word-game",
+            "puzzle",
+            "ai",
+            "guessing-game"
+        ],
+        "heroImageUrl": "https://your-deployment-url.com/og.png",
+        "tagline": "Can you guess the secret word?",
+        "ogTitle": "Hot and Cold - AI Word Guessing Game",
+        "ogDescription": "Guess the secret word! The delightfully frustrating word guessing game.",
+        "ogImageUrl": "https://your-deployment-url.com/og.png",
+        "noindex": false
+    }
+}
