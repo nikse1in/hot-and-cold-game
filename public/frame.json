@@ -7,9 +7,9 @@
     "frame": {
         "version": "1",
         "name": "Hot and Cold",
-        "homeUrl": "https://your-deployment-url.com",
-        "iconUrl": "https://your-deployment-url.com/icon.png",
-        "splashImageUrl": "https://your-deployment-url.com/splash.png",
+        "homeUrl": "https://hot-and-cold-game.vercel.app",
+        "iconUrl": "https://hot-and-cold-game.vercel.app/icon.png",
+        "splashImageUrl": "https://hot-and-cold-game.vercel.app/splash.png",
         "splashBackgroundColor": "#0a0a0f",
         "webhookUrl": "",
         "subtitle": "Guess the secret word!",
@@ -22,11 +22,11 @@
             "ai",
             "guessing-game"
         ],
-        "heroImageUrl": "https://your-deployment-url.com/og.png",
+        "heroImageUrl": "https://hot-and-cold-game.vercel.app/og.png",
         "tagline": "Can you guess the secret word?",
         "ogTitle": "Hot and Cold - AI Word Guessing Game",
         "ogDescription": "Guess the secret word! The delightfully frustrating word guessing game.",
-        "ogImageUrl": "https://your-deployment-url.com/og.png",
+        "ogImageUrl": "https://hot-and-cold-game.vercel.app/og.png",
         "noindex": false
     }
 }
